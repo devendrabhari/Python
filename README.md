@@ -145,3 +145,28 @@ Python 3.x
 Streamlit (for interactive UI)
 
 OS & Pathlib (for filesystem operations)
+
+# Web Scraping using Python with Gradio
+
+Website Content Scraper using Gradio
+This project is a simple yet powerful web scraping tool built with Python, BeautifulSoup, and Gradio. It allows users to extract the title and all visible paragraph text from any publicly accessible webpage — all through a clean and interactive web interface.
+
+🔧 Features
+🔗 Input any valid URL
+
+🧠 Automatically extracts and displays the page title
+
+📄 Lists all text from <p> tags in a readable format
+
+⚠️ Handles common errors like connection timeouts or invalid URLs
+
+🚀 Powered by Gradio for instant web app deployment
+
+📦 Tech Stack
+Python
+
+requests
+
+BeautifulSoup
+
+Gradio
