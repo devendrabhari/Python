@@ -170,3 +170,31 @@ requests
 BeautifulSoup
 
 Gradio
+
+
+# Flat Recommender App using Gradio + SerpAPI
+An AI-powered real estate search tool that helps users find flats in top Indian cities based on real-time Google search results. Built with Python, Gradio, and SerpAPI, this app simplifies the house-hunting experience by offering a clean and interactive UI.
+
+🔍 Features
+Select Budget up to ₹5 Crores
+
+Choose from 1 to 7 BHK options
+
+Pick from popular Indian cities (Mumbai, Delhi, Jaipur, etc.)
+
+Adjust flat area (300 – 10,000 sq. ft)
+
+Filter by facilities like Gym, Parking, Garden, etc.
+
+View top 5 real-time listings fetched using SerpAPI (Google Search)
+
+Fully responsive and easy-to-use Gradio web interface
+
+💻 Tech Stack
+Python
+
+Gradio (for interactive UI)
+
+SerpAPI (Google Search API)
+
+Markdown (for formatted output)
